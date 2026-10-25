@@ -13,7 +13,7 @@ Open to remote work, in Brazil or abroad.
 
 ### AI-assisted development
 
-- **kanon:** my spec-driven development harness on top of Claude Code. It has agents, skills and quality-gate hooks, and I use it to review PRs and document deliveries.
+- **[kanon](https://github.com/luisclaudioramos/kanon-ia):** my spec-driven development harness on top of Claude Code. It has agents, skills and quality-gate hooks, and I use it to review PRs and document deliveries.
 - **Team AI skills:** I wrote role-based skills for my team (Angular front end, .NET back end, QA and PR review). They work with Claude Code, Copilot and Cursor, and are based on the issues that kept coming back in 30 PRs I reviewed.
 
 ### Stack
